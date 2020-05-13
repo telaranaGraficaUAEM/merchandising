@@ -1,0 +1,187 @@
+*{
+  margin:0px;
+padding: 0px;
+}
+html, body{
+    height: 100%;
+    
+  }
+  .correo{
+    color:white;
+    top:5px;
+  }
+  .info{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    position: static;
+    
+
+  }
+  .Alto{
+    width: 100%;
+    height: 100px;
+    background: #3b5998;
+    
+  }
+  
+  
+  .letra{
+    position: relative;
+    top:5px;
+    left:0px;
+    width:250px;
+    height:80px;
+  }
+  .facebook{
+    position: relative;
+    top:5px;
+    left:2px;
+    width:40px;
+    height:40px;
+  }
+  .whats{
+    position: relative;
+    top:1px;
+    left:0px;
+    width:30px;
+    height:30px;
+  }
+  .arroba{
+    position: relative;
+    top:1px;
+    left:0px;
+    width:30px;
+    height:30px;
+  }
+  .Medio{
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(#04fbb3, #3b5998);
+
+    
+  }
+  .contacto{
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(#04fbb3, #3b5998);
+    overflow: hidden;
+  }
+
+
+ 
+ 
+  .playera{
+    position: relative;
+    float:right;
+    top: -200px;
+    height:500px;
+    right: 100px;
+   
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+    background-color: gray;
+    position: relative;
+    width: 16.5%;
+    left:900px;
+    top:50px;
+
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: green;
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #3b5998;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: gray;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .slogan{
+    -webkit-text-stroke: 2px black;
+    font-size:70px;
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      position: relative;
+       left:200px;
+       TOP:200px
+  }
+  .letra2{
+
+    position: relative;
+       left:300px;
+       TOP:200px;
+    width:500px;
+    height:150px;
+  }
+  .slogan3{
+    -webkit-text-stroke: 2px black;
+    font-size:70px;
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      position: relative;
+       left:200px;
+       TOP:50px
+  }
+  .slogan4{
+    -webkit-text-stroke: 1px black;
+    font-size:30px;
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      position: relative;
+       left:200px;
+       TOP:50px
+  }
+  .logo2{
+    position: relative;
+    float:right;
+    top: -200px;
+    height:300px;
+    right: 100px;
+   
+  }
+  .produc{
+   
+   top:50px;
+    height:1500px;
+    width: 100%;
+ 
+  }
